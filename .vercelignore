@@ -1,0 +1,10 @@
+/vendor
+/storage/framework/cache
+/storage/framework/views
+/storage/framework/sessions
+/bootstrap/cache
+.env
+.git
+.phpunit.cache
+tests/
+node_modules/
